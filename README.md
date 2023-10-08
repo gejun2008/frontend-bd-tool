@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # first extension
 
 Use the extension to scan and fix front-end app. **make sure!!! Workspace exist jenkins file**
@@ -27,3 +28,6 @@ Use the extension to scan and fix front-end app. **make sure!!! Workspace exist 
 # License
 
 MIT
+=======
+
+>>>>>>> b001781f1613cd9162350270dcd4142f61dbca84
